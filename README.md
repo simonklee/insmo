@@ -4,4 +4,4 @@
 - Now I'm working on the transition to sustainable freight in the logistics
 industry.
 
-![container chassie](container-chassie.jpg)
+![container chassie](container-chassie-small.jpg)
