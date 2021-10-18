@@ -1,4 +1,4 @@
-## Simon Zimmermann
+## Simon Klee
 
 Software engineer with a background in the games industry, working on the
 transition to sustainable freight 🚛. Fan of solving problems, teaching,
